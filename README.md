@@ -26,7 +26,7 @@ The team also produced a **single-chart front-page version**, deliberately strip
 
 ![AMR front-page brief](amr-front-page.png)
 
-**[View the interactive dashboard →](https://adythio.github.io/amr-dv-dashboard/)**
+**[View the interactive dashboard →](https://owontakingsley-alt.github.io/amr-funding-analysis/)**
 
 ---
 
